@@ -6,8 +6,6 @@ services:
     build: .
     container_name: "PP"
     tty: true
-    ports:
-      - "5005:5005"
     stdin_open: true
     volumes:
       - ./code:/code
