@@ -1,0 +1,28 @@
+#email -> envia email
+{
+    "message": "encaminhei seu email",
+    "status": 0,
+    "action": "email"
+    "contents": {
+        "destiny": "coord so ED",
+        "content": "corpo do email"
+    }
+}
+
+{
+    "message": "sua media eh tal",
+    "status": 0,
+    "action": "media"
+    "contents": {
+        "disciplina": "so | ED"
+    }
+}
+
+#data -> data das provas
+{
+    "message": "datas tal",
+    "status": 0,
+    "action": "data"
+    "contents": {
+    }
+}
